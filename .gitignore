@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 OpenCV_test/saved_frame
 .DS_Store
+YOLO_training/CAT_00
+YOLO_training/YOLO
