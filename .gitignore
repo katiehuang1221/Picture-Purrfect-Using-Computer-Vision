@@ -5131,3 +5131,5 @@ YOLO_training/YOLO/00000318_020.txt
 YOLO_training/YOLO/00000318_029.jpg
 YOLO_training/YOLO/00000318_029.txt
 YOLO_training/YOLO/00000319_004.jpg
+OpenCV_blur/frame_bad_rename
+OpenCV_blur/frame_good_rename
