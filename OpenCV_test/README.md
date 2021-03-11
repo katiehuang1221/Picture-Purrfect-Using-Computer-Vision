@@ -3,4 +3,4 @@
 ### 3. Rename files in saved_frames folder (notebook)
 ### 3. Run detect_blur_frames.py
 ### 4. Run cat_face_info.py
-### 5. Update blur_df and face_info_df
+### 5. Update blur_df & face_info_df
