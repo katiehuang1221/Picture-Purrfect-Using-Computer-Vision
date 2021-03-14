@@ -5138,3 +5138,4 @@ OpenCV_blur/haar_catface.xml
 OpenCV_blur/data/IMG_0213.jpg
 OpenCV_blur/data/IMG_0213.PNG
 OpenCV_blur/data/IMG_0214.jpg
+YOLO_detection/yolov3_custom_last.weights
