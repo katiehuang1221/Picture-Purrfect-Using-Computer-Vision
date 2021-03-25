@@ -1,9 +1,10 @@
 # Project 5: Picture Purrfect
 
 
-###### Metis Passion Project
+
 ### *Capturing the best moment of your furry friend with computer vision*
 
+###### Metis Passion Project
 
 <br/> 
 
