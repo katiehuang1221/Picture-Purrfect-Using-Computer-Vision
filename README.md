@@ -1,8 +1,12 @@
 # Project 5: Picture Purrfect
-### *Capturing the best moment of your furry friend with computer vision*
 
 
 ###### Metis Passion Project
+### *Capturing the best moment of your furry friend with computer vision*
+
+
+<br/> 
+
 
 ## Introduction
 
