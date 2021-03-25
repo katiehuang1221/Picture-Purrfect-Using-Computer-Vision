@@ -22,7 +22,7 @@ Here's a short demo of the web app:
 [![Alt text](https://github.com/katiehuang1221/onl_ds5_project_5/blob/main/img/youtube_screenshot.png)](https://www.youtube.com/watch?v=SJIwcQpdp-I)
 
 
-
+If you prefer reading, check out the [blog post](https://katiehuang1221.medium.com/picture-purrfect-bbcb5c3e42df).  
 If you are interested in the full presentation (including data collection, feature engineering and modeling):
 [![Alt text](https://github.com/katiehuang1221/onl_ds5_project_5/blob/main/img/youtube_screenshot_2.png)](https://www.youtube.com/watch?v=dPLmthvP5q0&t=79s)
 
