@@ -36,6 +36,7 @@ If you are interested in the full presentation (including data collection, featu
 #### Computer Vision
  * `OpenCV`
  * `darknet` (YOLOv3)
+ * Cloud computing (Google Colab GPU)
 
 #### Modeling
  * `numpy`, `pandas`
